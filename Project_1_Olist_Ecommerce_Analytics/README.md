@@ -40,23 +40,11 @@ The Power BI dashboard includes the following interactive visuals:
 ```
 Project_1_Olist_Ecommerce_Analytics/
 │
-├── 📁 data/
-│   ├── raw/                 # Original Olist CSV files (9 tables)
-│   │   ├── olist_customers_dataset.csv
-│   │   ├── olist_geolocation_dataset.csv
-│   │   ├── olist_order_items_dataset.csv
-│   │   ├── olist_order_payments_dataset.csv
-│   │   ├── olist_order_reviews_dataset.csv
-│   │   ├── olist_orders_dataset.csv
-│   │   ├── olist_products_dataset.csv
-│   │   ├── olist_sellers_dataset.csv
-│   │   └── product_category_name_translation.csv
-│   │
-│   └── processed/                               # Transformed data from SQL
-│       ├── delivery_performance_&_satisfaction.csv
-│       ├── seller_processing_&_cancellations.csv
-│       ├── cancellation_reasons_analysis.csv
-│       └── geographical_shipping_&_delivery_trends.csv
+├── 📁 processed data/
+│   ├── delivery_performance_&_satisfaction.csv
+│   ├── seller_processing_&_cancellations.csv
+│   ├── cancellation_reasons_analysis.csv
+│   └── geographical_shipping_&_delivery_trends.csv
 │
 ├── 📁 sql/
 │   ├── delivery_performance_&_satisfaction.sql
@@ -68,8 +56,6 @@ Project_1_Olist_Ecommerce_Analytics/
 │   └── olist_delivery_performance_eda.pbix
 │
 ├── 📄 README.md
-├── 📄 requirements.txt
-└── 📄 .gitignore
 ```
 
 ---
