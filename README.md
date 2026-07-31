@@ -1,5 +1,3 @@
-# data-analyst-portfolio
-
 # Portfolio của Phạm Thúy Hà - Data Analyst Intern
 
 Xin chào, tôi là sinh viên ngành Quản lý thông tin. Dưới đây là 3 dự án phân tích dữ liệu của tôi.
