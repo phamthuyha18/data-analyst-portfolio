@@ -64,7 +64,7 @@ Project_1_Olist_Ecommerce_Analytics/
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
-| **Data Processing** | Python (pandas, numpy, polars) | Data cleaning, ETL, transformation |
+| **Data Processing** | Python (pandas) | Data cleaning, transformation |
 | **Database** | MySQL | Data warehousing, querying |
 | **Visualization** | Power BI Desktop | Interactive dashboards, reporting |
 | **Version Control** | Git + GitHub | Code management, collaboration |
